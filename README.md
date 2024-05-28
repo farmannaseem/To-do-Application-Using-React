@@ -1,7 +1,7 @@
 # React + Vite
 # Installation:
 Step: 1: npm create vite@latest Todo-app.  
-Step: 2: cd npm Todo-app.
+Step: 2: cd npm Todo-app.  
 Step 3: npm install.   
 Step 4:  npm run dev.
 
